@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Siddiqa 👋
 
-<!--
-**siddiqababar444-png/siddiqababar444-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 What I Build
+I like turning real problems into working projects. I'm learning coding and building small projects step by step, with a focus on shipping things that actually work, not just exploring concepts.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| [Call Project](https://github.com/siddiqababar444-png/callproject) | My first project uploaded with Git and published with GitHub Pages | HTML, Python, Git |
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/siddiqababar444-png
